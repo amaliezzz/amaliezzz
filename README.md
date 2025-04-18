@@ -1,4 +1,4 @@
-<p align="left">Hi, I’m Amalia Rodriguez—a computer science student passionate about math, data analysis, and machine learning. I also have a solid background in physics, which'd I love to apply to my models</p>
+<p align="left">Hi, I’m Amalia Rodriguez—a computer science student passionate about math, Data Analysis, and Machine Learning. I also have a solid background in physics, which'd I love to apply to my models</p>
 
 ###
 
